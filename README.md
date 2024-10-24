@@ -1,2 +1,2 @@
 # ctrl-news
-Aprendizado com curso.dev
+Meu ambiente de desenvolvimento
